@@ -1,5 +1,5 @@
-const dividir = require("./dividir")
-const multiplicar = require("./multiplicar")
-const resta = require("./Operadores/resta")
-const suma = require("./Operadores/suma")
+const dividir = require("./Operadores/dividir")
+const multiplicar = require("./Operadores/multiplicar")
+const resta = require("./Operadores/restar")
+const suma = require("./Operadores/sumar")
 console.log(multiplicar(5,2));
